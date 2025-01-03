@@ -1,0 +1,1 @@
+In most cases, CORS (Cross-Origin Resource Sharing) is considered a better option than a proxy when dealing with cross-origin requests because it's the standard, more secure, and requires less configuration, as it's directly handled by the server, while a proxy adds an extra layer of complexity and potential security concerns if not properly managed. 
